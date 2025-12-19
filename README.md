@@ -1,7 +1,13 @@
 # ROS2作业
 
 ## 📋 作业信息
-- **作业内容**: 建立三个节点，两个发布者，一个订阅者
-- **姓名**: 张睿浩
+- **作业内容1**: 建立三个节点，两个发布者，一个订阅者
+- **源代码**：student_pubsub_ros2
+- **运行结果**：result.png
 - **ROS版本**: ROS2 Jazzy Jalisco
 - **Ubuntu版本**: Ubuntu 24.04
+
+- **作业内容2**: 导航招新题目
+- **源代码**：task1、task2、task3
+- **ROS版本**: ROS2 Humble Hawksbill
+- **Ubuntu版本**: Ubuntu 22.04
